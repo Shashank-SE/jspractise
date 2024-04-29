@@ -1,0 +1,67 @@
+/* h1 {
+    color: orange;
+}
+p {
+    color: #ff0;
+}
+
+h2 {
+    color: #00f;
+}
+
+button {
+    color:white;
+    background-color: blue;
+} */
+
+/* STYLING FOR LOGO */
+/* h1 {
+    font-family: League spartan;
+    color: #ffa511;
+    text-align: center;
+    font-size: 55px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    line-height: 1.5;
+    text-decoration: teal double underline;
+    text-transform: uppercase;
+}                */
+
+/* Styling for color Switcher. */
+*{
+    margin: 0;
+    padding: 0;
+}
+.canvas {
+    border: 4px solid lightcoral;
+    text-align: center;
+    width: 80%;
+    height: 320px;
+}
+
+.buttons{
+    border: 5px solid black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    margin: 8px;
+   display: inline-block;
+   cursor: pointer;
+}
+
+#red {
+    background-color: red;
+}
+#grey {
+    background-color: grey;
+}
+#blue {
+    background-color: blue;
+}
+#green {
+    background-color: green;
+}
+#pink {
+    background-color: pink;
+}
+/*.....................COLOR SWITCHER STYLING END............ */
